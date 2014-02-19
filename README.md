@@ -4,7 +4,7 @@ A basic rolling ball game that is built with Unity toolset. This is based on the
 
 ![Screenshot](http://unity3d.com/sites/default/files/RAB-Project-Thumb.jpg "Screenshot")
 
-####[Try it out!](http://tclee.github.io/RollABall)   
+###[Try it out!](http://tclee.github.io/RollABall)   
 **Note:** You will need to download the free [Unity Web Player](https://unity3d.com/webplayer) plug-in to play the game in your web browser.
 
 #### Controls
